@@ -9,7 +9,7 @@
 -   开机之后打开终端，如果没有安装selenium，直接
     
     ```shell
-    pip install selenium
+    pip3 install selenium==4.2.0
     ```
     
     安装selenium
